@@ -6,4 +6,4 @@ DubboDemo for a provider
 2 Http协议rest api:通用项目~通用解析
 
 ## 整体架构
-<img src="https://github.com/LiFanFan112/dubboOne/blob/master/1.png" width="375" alt="整体架构"/>
+<img src="https://github.com/LiFanFan112/dubboOne/blob/master/1.png" width="750" alt="整体架构"/>
