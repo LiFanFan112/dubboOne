@@ -16,3 +16,6 @@
 
 下单功能：商品平台服务 调用 下单功能
 <img src="https://github.com/LiFanFan112/dubboOne/blob/master/4.png" width="950" alt="Http架构"/>
+
+## 两大配置文件
+<img src="https://github.com/LiFanFan112/dubboOne/blob/master/5.png" width="950" alt="配置文件"/>
