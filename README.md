@@ -6,4 +6,4 @@ DubboDemo for a provider
 2 Http协议rest api:通用项目~通用解析
 
 ## 整体架构
-
+<img src=""
